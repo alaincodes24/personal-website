@@ -1,0 +1,14 @@
+- Names (1)
+- Services (4)
+- Address/Contact Info (5)
+- About (2)
+- Skills (3)
+
+
+Web Developer Skills:
+
+- Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js
+- Backend: JavaScript (Node.js)
+- Database: MongoDB
+- UI/UX design: Photoshop, Figma, Adobe XD
+
